@@ -80,7 +80,7 @@ The project explores the effect of environmental conditions (temperature & humid
 ![Prototype Breadboard](images/prototype_breadboard.png)
 
 ### Experiment Setup (5–15–30 cm with reference ruler)
-![Experiment Setup](images/experiment_setup.png)
+![Experiment Setup](images/experiment_compensated.png)
 
 ---
 
@@ -99,10 +99,10 @@ Experiments were conducted at reference distances of **5 cm, 15 cm, and 30 cm**.
 ## 📈 Results & Analysis
 
 ### Measured vs True Distances
-![Measured vs True](data/processed/plots/measured_vs_true.png)
+![Measured vs True](data/plots/measured_vs_true.png)
 
 ### Absolute Error Comparison
-![Absolute Error](data/processed/plots/absolute_error.png)
+![Absolute Error](data/plots/absolute_error.png)
 
 📌 Detailed results can be found in:  
 - [summary_metrics.csv](data/processed/summary_metrics.csv)  
