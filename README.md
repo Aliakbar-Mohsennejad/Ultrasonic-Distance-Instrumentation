@@ -80,7 +80,7 @@ The project explores the effect of environmental conditions (temperature & humid
 ![Prototype Breadboard](images/prototype_breadboard.png)
 
 ### Experiment Setup (5–15–30 cm with reference ruler)
-![Experiment Setup](images/experiment_compensated.png)
+![Experiment Setup](images/experiment_setup.png)
 
 ---
 
