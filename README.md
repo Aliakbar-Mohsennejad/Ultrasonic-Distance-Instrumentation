@@ -52,14 +52,6 @@ The project explores the effect of environmental conditions (temperature & humid
 
 ---
 
-## 🧩 System Overview
-
-### Block Diagram
-![Block Diagram](images/block_diagram.png)
-
-### Wiring Diagram
-![Wiring Diagram](images/wiring_diagram.png)
-
 ### Pin Mapping
 | Device    | Pin |
 |-----------|-----|
