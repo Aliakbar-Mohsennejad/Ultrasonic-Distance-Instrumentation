@@ -1,0 +1,14 @@
+# Arduino build files
+*.hex
+*.elf
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Python notebook checkpoints (if using Jupyter)
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
